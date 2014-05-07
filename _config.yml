@@ -1,0 +1,11 @@
+# Site settings
+name: Emin Tham
+title: Blog
+description: "A collection of 'notes to self' to make sure I can remember what I did and why."
+baseurl: ""
+url: "http://emintham.io"
+username: "emintham"
+
+# Build settings
+markdown: kramdown
+permalinks: pretty
